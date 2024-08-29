@@ -1,7 +1,6 @@
-<h1>Hi👋 I'm Ignat</h1>
-
-<div align="right">
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp0azczb2xnN3cxNjAyNHVlcTRieWVuNm8xaHlndnVvcW1tdzJicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+<div id="header">
+  <h1 align="left">Hi👋 I'm Ignat</h1>
+  <img align="right" src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp0azczb2xnN3cxNjAyNHVlcTRieWVuNm8xaHlndnVvcW1tdzJicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 
 <h3>Unity Developer</h3>
