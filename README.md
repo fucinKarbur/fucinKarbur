@@ -1,5 +1,8 @@
 <h1>Hi👋 I'm Ignat</h1>
-<h3>Unity Developer</h3>
+<h2>Unity Developer</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on: [WEB_KID_MAKER:REDUX](https://yandex.ru/games/app/294619?draft=true&lang=ru)
 
