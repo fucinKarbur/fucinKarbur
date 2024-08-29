@@ -1,8 +1,6 @@
 <h1>Hi👋 I'm Ignat</h1>
 <h1>Unity Developer</h1>
-<div align="right" style="width:100;height:0;padding-bottom:105;position:relative;">
-  <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<div style="width:100%;height:0;padding-bottom:105%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 - 🔭 I’m currently working on: [WEB_KID_MAKER:REDUX](https://yandex.ru/games/app/294619?draft=true&lang=ru)
 
