@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ignat</h1>
-<h3 align="center">Unity Developer</h3>
+<h1>Hi👋 I'm Ignat</h1>
+<h3>Unity Developer</h3>
 
 - 🔭 I’m currently working on: [WEB_KID_MAKER:REDUX](https://yandex.ru/games/app/294619?draft=true&lang=ru)
 
 - 👨‍💻 All of my projects are available at: [itch.io](https://fucinkarbur.itch.io)
 
-- 📫 How to reach me: [tg](https://t.me/fucinkarbur) [mail](umskunat@gmail.com)
+- 📫 How to reach me: [tg](https://t.me/fucinkarbur) [vk](https://vk.com/fucinkarbur) <a href="https://wa.me/+79119443674">WhatsApp</a> <a href="mailto:umskunat@gmail.com">mail</a> 
 
 - ⚡ Fun fact: **日本語を勉強します**
 
