@@ -1,8 +1,11 @@
 <h1>Hi👋 I'm Ignat</h1>
-<h1>Unity Developer</h1>
-<div id="header" align="center">
+
+<div align="right">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp0azczb2xnN3cxNjAyNHVlcTRieWVuNm8xaHlndnVvcW1tdzJicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
+
+<h3>Unity Developer</h3>
+
 
 - 🔭 I’m currently working on: [WEB_KID_MAKER:REDUX](https://yandex.ru/games/app/294619?draft=true&lang=ru)
 
@@ -18,6 +21,12 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ignat-bragimskiy-085a1a324/" height="30" width="40" />
 </a>
 </p>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
