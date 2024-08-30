@@ -9,9 +9,7 @@
 
 - 🏓 Became a developer because played a lot of flash games
 
-- 👨‍💻 All of my projects are available at 
-<a href="https://fucinkarbur.itch.io" target="blank">
-  <img src="https://img.shields.io/badge/itch.io-green?style=for-the-badge&logo=itch.io&logoColor=red" alt="Itch.io" width="70" height="15"/></a>
+- 👨‍💻 All of my projects are available at [Itch.io](https://fucinkarbur.itch.io)
 </div>
 
 <div id="contacts" align="center">
