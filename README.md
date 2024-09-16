@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/gitHub-black?style=for-the-badge&logo=GitHub&logoColor=E0FFFF)
 ![Zenject](https://img.shields.io/badge/Zenject-black?style=for-the-badge&logo=zendesk&logoColor=green)
 ![DOTween](https://img.shields.io/badge/DOTween-black?style=for-the-badge&logo=accenture&logoColor=48D1CC)
+![Naninovel](https://img.shields.io/badge/Naninovel-black?style=for-the-badge&logo=naver&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-black?style=for-the-badge&logo=V&logoColor=blue)
 ![WebGL](https://img.shields.io/badge/webgl-black?style=for-the-badge&logo=WebGL&logoColor=red)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=blue)
