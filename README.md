@@ -14,7 +14,7 @@
 
 <div id="contacts" align="center">
 <h2 align="left"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA3MG91ejZkNHZwdTRyMXJiNG1lNm5oaTN1aWM4aGZzNGVhYmpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLyZHYZFXBJnPiLooF/giphy.gif" width="25">Connect with me</h2>
-<a href="https://www.linkedin.com/in/ignat-bragimskiy-085a1a324/" target="blank">
+<a href="www.linkedin.com/in/ignat-bragimsky" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:umskunat@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
