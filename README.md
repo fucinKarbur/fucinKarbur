@@ -5,11 +5,11 @@
 <div id="about">
 <h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Iyb295cWNoMTB3aTl5aWdicmU4OWp5Yjl3aHowMzUwc3dkeXprOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpisVQR89FBaE6EXSh/giphy.gif" width="25">About me</h2>
 
-- 🥎 Unity Developer 2+ years exp
+- 🥎 Unity Developer 3+ years exp
 
 - 🏓 Became a developer because played a lot of flash games
 
-- 👨‍💻 All of my projects are available at [Itch.io](https://fucinkarbur.itch.io)
+- 👨‍💻 Some of my pet projects are available at [Itch.io](https://fucinkarbur.itch.io)
 </div>
 
 <div id="contacts" align="center">
