@@ -46,8 +46,6 @@
 <h4>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZtMDNsZDd4bGVobjQ3bGZmb2M1ejlocDJxd2t2amh1MWQ3ZHVrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7zMpRQRR4gZTg8BRn5/giphy.gif" width="20"/>
 WEB KID MAKER:REDUX --------------------------------------------------
-  <a href="https://github.com/fucinKarbur/WebKidMaker-Redux">CODE</a>
-  ||
   <a href="https://yandex.ru/games/app/294619?draft=true&lang=ru">PLAY</a>
 </h4>
 
